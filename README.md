@@ -2,6 +2,8 @@
 
 **Senior Frontend Engineer · Tech Lead · React & Performance Specialist**
 
+My GitHub profile README — Senior Frontend Engineer at Lowe's India
+
 7 years building high-scale frontend systems at **Lowe's India** — a Fortune 50 GCC powering one of the world's largest home improvement e-commerce platforms (~$90B revenue).
 
 ---
@@ -80,8 +82,8 @@ Maulana Azad National Institute of Technology (NIT Bhopal) · 2015–2019
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay_Badole-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vijay-badole-a41583ba/)
 [![Email](https://img.shields.io/badge/Email-vbadole537@gmail.com-EA4335?style=flat&logo=gmail)](mailto:vbadole537@gmail.com)
 
-
-![Profile views](https://komarev.com/ghpvc/?username=vijaybadole&color=blue&style=flat)
 ---
 
 *Open to Senior Frontend Engineer · Tech Lead · Staff Frontend Engineer roles in Bengaluru*
+
+![Profile views](https://komarev.com/ghpvc/?username=vijaybadole&color=blue&style=flat)
