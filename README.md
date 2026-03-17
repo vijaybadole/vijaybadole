@@ -2,8 +2,6 @@
 
 **Senior Frontend Engineer · Tech Lead · React & Performance Specialist**
 
-My GitHub profile README — Senior Frontend Engineer at Lowe's India
-
 7 years building high-scale frontend systems at **Lowe's India** — a Fortune 50 GCC powering one of the world's largest home improvement e-commerce platforms (~$90B revenue).
 
 ---
