@@ -51,10 +51,10 @@
 
 | Repo | What It Is |
 |---|---|
-| [react-performance-patterns](https://github.com/victormanitcse/react-performance-patterns) | Production-grade React performance techniques — lazy loading, memoization, Web Vitals |
-| [frontend-system-design](https://github.com/victormanitcse/frontend-system-design) | Senior frontend system design notes — architecture, scalability, real-world case studies |
-| [dsa-solutions](https://github.com/victormanitcse/dsa-solutions) | LeetCode solutions in JavaScript with multiple approaches and complexity analysis |
-| [ci-cd-templates](https://github.com/victormanitcse/ci-cd-templates) | Frontend CI/CD pipeline templates — GitHub Actions workflows for React apps |
+| [react-performance-patterns](https://github.com/vijaybadole/react-performance-patterns) | Production-grade React performance techniques — lazy loading, memoization, Web Vitals |
+| [frontend-system-design](https://github.com/vijaybadole/frontend-system-design) | Senior frontend system design notes — architecture, scalability, real-world case studies |
+| [dsa-solutions](https://github.com/vijaybadole/dsa-solutions) | LeetCode solutions in JavaScript with multiple approaches and complexity analysis |
+| [ci-cd-templates](https://github.com/vijaybadole/ci-cd-templates) | Frontend CI/CD pipeline templates — GitHub Actions workflows for React apps |
 
 ---
 
