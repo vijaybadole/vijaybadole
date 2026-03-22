@@ -1,30 +1,33 @@
-# Hi, I'm Vijay Badole 👋
-
-**Senior Frontend Engineer · Tech Lead · React & Performance Specialist**
-
-7 years building high-scale frontend systems at **Lowe's India** — a Fortune 50 GCC powering one of the world's largest home improvement e-commerce platforms (~$90B revenue).
+<h1 align="center">Hi 👋, I'm Vijay Badole</h1>
+<h3 align="center">Senior Frontend Engineer | React | System Design | Performance Enthusiast</h3>
 
 ---
 
-## 🚀 What I Do
+## 🧠 About Me
 
-- **Frontend Architecture** — Micro frontends, component design systems, scalable React applications
-- **Performance Engineering** — Web Vitals (LCP, CLS, FID), lazy loading, code splitting, bundle optimization
-- **CI/CD Ownership** — Jenkins, Spinnaker, release automation, deployment pipelines
-- **Tech Lead Scope** — Architecture decisions, code reviews, mentoring, system design
+- 🔭 Currently working at **Lowe’s Services India**
+- 💻 5+ years building **scalable frontend systems**
+- ⚡ Focused on **performance, architecture, and system design**
+- 🌱 Exploring **Next.js, Micro Frontends & AI integrations**
+- 🎯 Goal: Become **Top 5% Frontend Engineer**
 
 ---
 
-## 📊 Impact by Numbers
+## 🛠️ Tech Stack
 
-| Metric | Impact |
-|---|---|
-| Annual digital revenue influenced | ~$1.5B |
-| Operational cost savings | $200M/year |
-| Page load time reduction | 40% |
-| Deployment efficiency improvement | 70% |
-| Product sales increase (loyalty platform) | 12% |
-| Weekly engineering hours saved (automation) | 6+ hrs |
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+
+### Tools & Architecture
+![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack)
+![Micro Frontend](https://img.shields.io/badge/Micro%20Frontend-FF6F00?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
 
 ---
 
@@ -43,59 +46,43 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaybadole&theme=tokyo-night" />
 </p>
 
+---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Core**
-`React.js` `JavaScript (ES6+)` `TypeScript` `Node.js` `Redux` `Redux-Saga`
+### 🔹 Scalable React Architecture
+- Built modular frontend with **Redux + Saga + MFE**
+- Improved performance by **XX%**
+- Tech: React, Webpack, Micro Frontends
 
-**Performance & Tooling**
-`Web Vitals` `Webpack` `Babel` `Lazy Loading` `Code Splitting`
-
-**Architecture**
-`Micro Frontends` `REST APIs` `Microservices` `System Design`
-
-**DevOps**
-`CI/CD` `Jenkins` `Docker` `GCP` `GitHub Actions`
-
-**Testing**
-`Jest` `React Testing Library`
+### 🔹 Finance Decision Engine
+- Buy vs Rent, SIP, Goal Planning
+- Focus on **real-world decision systems**
+- Tech: React, Node.js
 
 ---
 
-## 📁 Featured Repositories
+## 🧩 What I Bring to the Table
 
-| Repo | What It Is |
-|---|---|
-| [react-performance-patterns](https://github.com/vijaybadole/react-performance-patterns) | Production-grade React performance techniques — lazy loading, memoization, Web Vitals |
-| [frontend-system-design](https://github.com/vijaybadole/frontend-system-design) | Senior frontend system design notes — architecture, scalability, real-world case studies |
-| [dsa-solutions](https://github.com/vijaybadole/dsa-solutions) | LeetCode solutions in JavaScript with multiple approaches and complexity analysis |
-| [ci-cd-templates](https://github.com/vijaybadole/ci-cd-templates) | Frontend CI/CD pipeline templates — GitHub Actions workflows for React apps |
+- ⚙️ Strong understanding of **JS internals & React Fiber**
+- 📊 Performance optimization mindset (**Lighthouse, Core Web Vitals**)
+- 🧱 Scalable frontend architecture (MFE, modular systems)
+- 🔐 Secure & production-ready systems
 
 ---
 
-## 🏆 Recognition
+## 📚 Currently Learning
 
-- **Annual Champion Award** — Lowe's India top performer recognition
-- **4× Exceeds Expectations** across annual review cycles (FY2020, FY2022, FY2024, FY2025)
-- Cited for: senior-level ownership, technical depth, independent delivery of complex initiatives
-
----
-
-## 🎓 Education
-
-**B.Tech, Computer Science & Engineering**
-Maulana Azad National Institute of Technology (NIT Bhopal) · 2015–2019
+- Advanced **System Design (Frontend + Distributed Systems)**
+- **Next.js deep dive**
+- **Observability & scaling patterns**
 
 ---
 
-## 📬 Connect
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay_Badole-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vijay-badole-a41583ba/)
-[![Email](https://img.shields.io/badge/Email-vbadole537@gmail.com-EA4335?style=flat&logo=gmail)](mailto:vbadole537@gmail.com)
-
----
-
-*Open to Senior Frontend Engineer · Tech Lead · Staff Frontend Engineer roles in Bengaluru*
-
-![Profile views](https://komarev.com/ghpvc/?username=vijaybadole&color=blue&style=flat)
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/vijay-badole-a41583ba)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
