@@ -78,12 +78,12 @@ Maulana Azad National Institute of Technology (NIT Bhopal) · 2015–2019
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay_Badole-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vijay-badole-a41583ba/)
 [![Email](https://img.shields.io/badge/Email-vbadole537@gmail.com-EA4335?style=flat&logo=gmail)](mailto:vbadole537@gmail.com)
 
----
+<!--
 ## 📈 Contribution Graph
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaybadole&theme=tokyo-night" />
-</p>
+</p> -->
 
 ---
 
