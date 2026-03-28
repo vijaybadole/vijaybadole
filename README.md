@@ -81,7 +81,6 @@ Maulana Azad National Institute of Technology (NIT Bhopal) · 2015–2019
 <!--
 ## 📈 Contribution Graph
 
-
  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaybadole&theme=tokyo-night" />
 </p> -->
