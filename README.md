@@ -84,7 +84,6 @@ Maulana Azad National Institute of Technology (NIT Bhopal) · 2015–2019
    
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaybadole&theme=tokyo-night" />
 </p> -->
-
 ---
 
 *Open to Senior Frontend Engineer · Tech Lead · Staff Frontend Engineer roles in Bengaluru*
